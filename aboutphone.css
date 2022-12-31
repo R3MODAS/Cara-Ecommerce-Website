@@ -1,0 +1,29 @@
+@media screen and (max-width:1447px) {
+    #about-head {
+        flex-direction: column;
+    }
+
+    #about-head img{
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:800px){
+
+    #about-head{
+        gap: 4rem;   
+    }
+
+    #about-head img{
+        min-width: 100%;
+    }
+
+}
+
+@media screen and (max-width:740px){
+    #about-app .video {
+        width: 100%;
+        height: 100%;
+        margin: 40px auto;
+    }
+}

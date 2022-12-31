@@ -1,0 +1,16 @@
+@media screen and (max-width:830px) {
+    #prodetails {
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    #prodetails .single-pro-image {
+        width: 100%;
+        margin-right: 0px;
+    }
+
+    #prodetails .single-pro-details {
+        width: 100%;
+    }
+}
